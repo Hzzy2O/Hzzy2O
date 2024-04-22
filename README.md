@@ -23,8 +23,7 @@
 ![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=2C2D72&logo=Lua&logoColor=white)
 ![playwright](https://img.shields.io/static/v1?label=&message=playwright&color=2EAD33&logo=playwright&logoColor=white)
 
-### 🌟 
 
-Feel free to browse my repositories, and let's connect if you're interested in collaborating or if you just want to chat!
+🌟 Feel free to browse my repositories, and let's connect if you're interested in collaborating or if you just want to chat!
 
 Happy coding! 💻
